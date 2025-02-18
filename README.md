@@ -1,2 +1,2 @@
 # shell-scripts
-50 + shell scripts has been created to automate tasks
+50 + shell scripts have been created to automate tasks
